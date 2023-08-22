@@ -1,2 +1,3 @@
 ini teks tambahan
-tulisan as teks
+tulisan as teks (udah resolved)
+
